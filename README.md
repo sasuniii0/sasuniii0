@@ -4,7 +4,7 @@
 ---
 
 ## 🌟 About Me  
-💻 Full‑stack developer @ **IJSE (Institute of Software Engineering)**  
+💻 Student @ **IJSE (Institute of Software Engineering)**  
 📚 Pursuing **BSc (Hons) in Computer Science**  
 ⚡ Passionate about **clean code & scalable architecture**  
 🔍 Always exploring **new technologies** & building **innovative solutions**  
