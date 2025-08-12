@@ -1,6 +1,5 @@
 <h1 align="center">👋 Hey there! I'm Sasuni Wijerathne ✨</h1>
 <h3 align="center">Full‑Stack Developer | ☕ Coffee Enthusiast | 🚀 Tech Explorer</h3>
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=sasuniii0.sasuniii0)
 
 ---
 
