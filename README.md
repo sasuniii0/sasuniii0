@@ -6,9 +6,24 @@
 
 **🚀 Computer Science Student @ IJSE | ☕ Coffee Enthusiast | 💡 Tech Explorer**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/Sasuni-Wijerathne) 
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium)](https://medium.com/@sasuniwijerathne) 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail)](mailto:sasuniwijerathne@gmail.com)
+<p align="center">
+  <a href="https://www.facebook.com/profile.php?id=61573973464854&mibextid=wwXIfr&mibextid=wwXIfr">
+    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook" height="30"/>
+  </a>
+  <a href="https://www.instagram.com/sasunyyy.y?igsh=ZTNwanBtMWdwdzJk&utm_source=qr">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" height="30"/>
+  </a>
+  <a href="www.linkedin.com/in/sasuni-wijerathne-a3b517311">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="30"/>
+  </a>
+  <a href="https://medium.com/@sasuniwijerathne">
+    <img src="https://img.shields.io/badge/-Medium-12100E?style=flat&logo=medium&logoColor=white" alt="Medium" height="30"/>
+  </a>
+  <a href="mailto:sasuniwijerathne@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" height="30"/>
+  </a>
+</p>
+
 
 </div>
 
