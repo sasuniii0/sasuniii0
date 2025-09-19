@@ -1,5 +1,7 @@
-# 👋 Sasuni Wijerathne | Full-Stack Developer ✨
-
+<h1 align="center">Sasuni Wijerathne | Full-Stack Developer</h1>
+<p align="center">
+  <img src="assets/4eaf9c967da1f762f6dc895644bb1447.jpg" width="400px" />
+</p>
 <div align="center">
 
 **🚀 Computer Science Student @ IJSE | ☕ Coffee Enthusiast | 💡 Tech Explorer**
