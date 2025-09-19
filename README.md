@@ -1,6 +1,6 @@
 <h1 align="center">Sasuni Wijerathne | Full-Stack Developer</h1>
 <p align="center">
-  <img src="assets/4eaf9c967da1f762f6dc895644bb1447.jpg" width="400px" />
+  <img src="assets/f7c09d8406f5bc293b103bee1389b8ec.jpg" width="400px" />
 </p>
 <div align="center">
 
