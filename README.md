@@ -1,11 +1,6 @@
 <h1 align="center">Sasuni Wijerathne | Full-Stack Developer</h1>
 
 <p align="center">
-  ![Profile Views](https://komarev.com/ghpvc/?username=sasuniii0&color=blue)
-</p>
-
-
-<p align="center">
   <img src="assets/f7c09d8406f5bc293b103bee1389b8ec.jpg" width="400px" />
 </p>
 <div align="center">
