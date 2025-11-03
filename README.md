@@ -40,16 +40,13 @@
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript) 
 - ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript)
 - ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react) 
-- ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular) 
 - ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs) 
 - ![Express.js](https://img.shields.io/badge/-Express-000000?style=flat&logo=express)
 - ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat&logo=spring-boot)
 
 **Databases & Tools:**
-- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql) 
-- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql) 
-- ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws) 
-- ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker) 
+- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)
+- ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb) 
 - ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git) 
 - ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter) 
 - ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code)
