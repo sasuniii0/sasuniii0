@@ -1,4 +1,4 @@
-<h1 align="center">Sasuni Wijerathne | Full-Stack Developer</h1>
+<h1 align="center">Sasuni Wijerathne | Full-Stack Alchemist | AI/ML Enthusiast</h1>
 
 <p align="center">
   <img src="assets/f7c09d8406f5bc293b103bee1389b8ec.jpg" width="400px" />
@@ -35,19 +35,33 @@
 <td width="50%">
 
 **Languages & Frameworks:**
-- ![Java](https://img.shields.io/badge/-Java-f89820?style=flat&logo=openjdk) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript)
-- ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react) ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs) ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat&logo=spring-boot)
+- ![Java](https://img.shields.io/badge/-Java-f89820?style=flat&logo=openjdk) 
+- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python) 
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript) 
+- ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript)
+- ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react) 
+- ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular) 
+- ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs) 
+- ![Express.js](https://img.shields.io/badge/-Express-000000?style=flat&logo=express)
+- ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat&logo=spring-boot)
 
-**Database & Tools:**
-- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
-- ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
+**Databases & Tools:**
+- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql) 
+- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql) 
+- ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws) 
+- ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker) 
+- ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git) 
+- ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter) 
+- ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code)
+- ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux)
 
 **🎯 Current Focus:**
-- **Specializing:** React, TypeScript, Node.js, Spring Boot
-- **Learning:** Microservices, AWS, Cloud-Native Development
-- **Goal:** Building scalable web applications & contributing to open-source
+- **Specializing:** Express.js, Spring Boot, Python, React, Node.js
+- **Learning:** AI, ML, Deep Learning, DSA, Math for AI & Algorithms
+- **Goal:** To create innovative, intelligent web & AI applications that solve real-world problems and contribute to cutting-edge technology
 
 </td>
+
 <td width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=sasuniii0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%" />
@@ -62,7 +76,7 @@
 
 <div align="center">
 
-**💡 Available for Full-Stack Projects & Collaboration | Let's build something amazing! 🚀**
+💡 Passionate about Full-Stack & AI/ML innovation | Let’s turn ideas into reality! 🚀
 
 ![](https://visitcount.itsvg.in/api?id=sasuniii0&label=Views&color=0&icon=5&pretty=false)
 
