@@ -36,21 +36,21 @@
 
 **Languages & Frameworks:**
 - ![Java](https://img.shields.io/badge/-Java-f89820?style=flat&logo=openjdk) 
-- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python) 
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript) 
-- ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript)
-- ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react) 
-- ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs) 
-- ![Express.js](https://img.shields.io/badge/-Express-000000?style=flat&logo=express)
-- ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat&logo=spring-boot)
+  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python) 
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript) 
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript)
+  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react) 
+  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs) 
+  ![Express.js](https://img.shields.io/badge/-Express-000000?style=flat&logo=express)
+  ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat&logo=spring-boot)
 
 **Databases & Tools:**
 - ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)
-- ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb) 
-- ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git) 
-- ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter) 
-- ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code)
-- ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb) 
+  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git) 
+  ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter) 
+  ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code)
+  ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux)
 
 **🎯 Current Focus:**
 - **Specializing:** Express.js, Spring Boot, Python, React, Node.js
