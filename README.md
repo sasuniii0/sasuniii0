@@ -5,6 +5,11 @@
 </p>
 <div align="center">
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sasuniii0&label=👀+Profile+Views&color=ff69b4&style=for-the-badge" alt="Profile views" />
+</p>
+
+
 **🚀 Computer Science Student @ IJSE | ☕ Coffee Enthusiast | 💡 Tech Explorer**
 
 <p align="center">
