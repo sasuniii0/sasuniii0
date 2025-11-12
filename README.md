@@ -14,22 +14,29 @@
 **🚀 Computer Science Student @ IJSE | ☕ Coffee Enthusiast | 💡 Tech Explorer**
 
 <p align="center">
-  <a href="https://www.facebook.com/profile.php?id=61573973464854&mibextid=wwXIfr&mibextid=wwXIfr">
-    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook" height="30"/>
+  <a href="[https://www.facebook.com/profile.php?id=61573973464854](https://www.facebook.com/share/1D7FnhajhP/?mibextid=wwXIfr)" target="_blank">
+    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="https://www.instagram.com/sasunyyy.y?igsh=ZTNwanBtMWdwdzJk&utm_source=qr">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" height="30"/>
+  <a href="[https://www.instagram.com/sasunyyy.y](https://www.instagram.com/sasunyyy.y?igsh=ZTNwanBtMWdwdzJk&utm_source=qr)" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="www.linkedin.com/in/sasuni-wijerathne-a3b517311">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="30"/>
+  <a href="[www.linkedin.com/in/sasuni-wijerathne-a3b517311](https://www.linkedin.com/in/sasuni-wijerathne-a3b517311/)" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://medium.com/@sasuniwijerathne">
-    <img src="https://img.shields.io/badge/-Medium-12100E?style=flat&logo=medium&logoColor=white" alt="Medium" height="30"/>
+  <a href="[https://medium.com/@sasuniwijerathne](https://medium.com/@sasuniwijerathne)" target="_blank">
+    <img src="https://img.shields.io/badge/-Medium-12100E?style=flat-square&logo=medium&logoColor=white" alt="Medium" />
   </a>
-  <a href="mailto:sasuniwijerathne@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" height="30"/>
+  <a href="mailto:sasuniwijerathne@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="[https://www.youtube.com/@SasuniWijerathne-gt1sb](https://www.youtube.com/@SasuniWijerathne-gt1sb)" target="_blank">
+    <img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
 </p>
+
+
+
+
 
 
 </div>
