@@ -5,10 +5,12 @@
   <sub>Computer Science Student @ IJSE, Sri Lanka 🇱🇰</sub>
 </p>
 
+
 <p align="center">
+  <a href="https://sasuni.me/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/sasuni-wijerathne-a3b517311/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="https://medium.com/@sasuniwijerathne"><img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white"/></a>
-  <a href="mailto:sasuniwijerathne@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="/cdn-cgi/l/email-protection#22514351574c4b554b48475043564a4c4762454f434b4e0c414d4f"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
   <a href="https://www.youtube.com/@SasuniWijerathne-gt1sb"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=sasuniii0&label=Profile+Views&color=ff69b4&style=flat-square"/>
 </p>
