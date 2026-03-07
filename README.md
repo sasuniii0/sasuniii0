@@ -1,93 +1,73 @@
-<h1 align="center">Sasuni Wijerathne | Full-Stack Alchemist | AI/ML Enthusiast</h1>
+<h1 align="center">Hi, I'm Sasuni Wijerathne 👋</h1>
 
 <p align="center">
-  <img src="assets/f7c09d8406f5bc293b103bee1389b8ec.jpg" width="400px" />
+  <b>Full-Stack Engineer · AI/ML Enthusiast · Cloud Explorer</b><br/>
+  <sub>Computer Science Student @ IJSE, Sri Lanka 🇱🇰</sub>
 </p>
-<div align="center">
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sasuniii0&label=👀+Profile+Views&color=ff69b4&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/badge/dynamic/json?color=ff69b4&label=Followers&query=followers&url=https://api.github.com/users/sasuniii0&style=for-the-badge&logo=github" alt="GitHub followers" />
+  <a href="https://www.linkedin.com/in/sasuni-wijerathne-a3b517311/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://medium.com/@sasuniwijerathne"><img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white"/></a>
+  <a href="mailto:sasuniwijerathne@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.youtube.com/@SasuniWijerathne-gt1sb"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=sasuniii0&label=Profile+Views&color=ff69b4&style=flat-square"/>
 </p>
 
+---
 
-**🚀 Computer Science Student @ IJSE | ☕ Coffee Enthusiast | 💡 Tech Explorer**
+### 🧠 About Me
 
-<p align="center">
-  <a href="[https://www.facebook.com/profile.php?id=61573973464854](https://www.facebook.com/share/1D7FnhajhP/?mibextid=wwXIfr)" target="_blank">
-    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="[https://www.instagram.com/sasunyyy.y](https://www.instagram.com/sasunyyy.y?igsh=ZTNwanBtMWdwdzJk&utm_source=qr)" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="[www.linkedin.com/in/sasuni-wijerathne-a3b517311](https://www.linkedin.com/in/sasuni-wijerathne-a3b517311/)" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="[https://medium.com/@sasuniwijerathne](https://medium.com/@sasuniwijerathne)" target="_blank">
-    <img src="https://img.shields.io/badge/-Medium-12100E?style=flat-square&logo=medium&logoColor=white" alt="Medium" />
-  </a>
-  <a href="mailto:sasuniwijerathne@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="[https://www.youtube.com/@SasuniWijerathne-gt1sb](https://www.youtube.com/@SasuniWijerathne-gt1sb)" target="_blank">
-    <img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-</p>
+- Building full-stack web & mobile apps with **React, Next.js, Spring Boot, Node.js**
+- Cross-platform mobile development with **React Native & Expo**
+- Exploring **DevOps, Cloud (AWS, Azure), Docker & Kubernetes**
+- Learning **AI/ML, Deep Learning, NLP & Math for AI**
+- Goal: Craft intelligent, scalable systems that solve real-world problems
 
+---
 
-
-
-
-
-</div>
-
-## 🛠️ Tech Stack & 📊 GitHub Stats
+### 🛠️ Tech Stack
 
 <table>
 <tr>
-<td width="50%">
+<td align="center" valign="top" width="33%">
 
-**Languages & Frameworks:**
-- ![Java](https://img.shields.io/badge/-Java-f89820?style=flat&logo=openjdk) 
-  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python) 
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript) 
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript)
-  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react) 
-  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs) 
-  ![Express.js](https://img.shields.io/badge/-Express-000000?style=flat&logo=express)
-  ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat&logo=spring-boot)
+**Frontend & Mobile**
 
-**Databases & Tools:**
-- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb) 
-  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git) 
-  ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter) 
-  ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code)
-  ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux)
-
-**🎯 Current Focus:**
-- **Specializing:** Express.js, Spring Boot, Python, React, Node.js
-- **Learning:** AI, ML, Deep Learning, DSA, Math for AI & Algorithms
-- **Goal:** To create innovative, intelligent web & AI applications that solve real-world problems and contribute to cutting-edge technology
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat&logo=nextdotjs)
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat&logo=react)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux)
+![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat&logo=tailwindcss)
+![Expo](https://img.shields.io/badge/-Expo-000020?style=flat&logo=expo)
 
 </td>
+<td align="center" valign="top" width="33%">
 
-<td width="50%">
+**Backend & Databases**
 
-<img src="https://github-readme-stats.vercel.app/api?username=sasuniii0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%" />
+![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat&logo=spring-boot)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs)
+![Express](https://img.shields.io/badge/-Express-000?style=flat&logo=express)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sasuniii0&theme=tokyonight&hide_border=true&layout=compact" width="100%" />
+</td>
+<td align="center" valign="top" width="33%">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sasuniii0&theme=tokyonight&hide_border=true" width="100%" />
+**DevOps, Cloud & AI**
+
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes)
+![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazonaws)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoftazure)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat&logo=githubactions)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikitlearn)
 
 </td>
 </tr>
 </table>
 
-<div align="center">
+---
 
-💡 Passionate about Full-Stack & AI/ML innovation | Let’s turn ideas into reality! 🚀
-
-![](https://visitcount.itsvg.in/api?id=sasuniii0&label=Views&color=0&icon=5&pretty=false)
-
-</div>
+<p align="center"><i>💡 Let's turn ideas into intelligent, scalable experiences — one commit at a time. 🚀</i></p>
