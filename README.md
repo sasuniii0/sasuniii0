@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Sasuni Wijerathne 👋</h1>
 <p align="center">
   <b>Full-Stack Engineer · AI/ML Enthusiast · Cloud Explorer</b><br/>
-  <sub>Computer Science Student @ IJSE, Sri Lanka 🇱🇰</sub>
+  <sub>Software Engineering Intern @ PayMedia (Pvt) Ltd | Computer Science Student @ IJSE, Sri Lanka 🇱🇰</sub>
 </p>
 <p align="center">
   <a href="https://sasuni.me/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white"/></a>
